@@ -79,11 +79,10 @@ public class PlayerMovement : MonoBehaviour {
     {
         swordcol.enabled = true;
     }
-
+    
     void noattack()
     {
         swordcol.enabled = false;
         myanimator.ResetTrigger("Attack");
     }
-    
 }
