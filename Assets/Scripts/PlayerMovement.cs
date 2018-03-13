@@ -28,15 +28,18 @@ public class PlayerMovement : MonoBehaviour {
         contactFilter.SetLayerMask(Physics2D.GetLayerCollisionMask(gameObject.layer));
         contactFilter.useLayerMask = true;
     }
-
-    private void FixedUpdate()
+    private void Update()
     {
-        Move();
-        
         if (Input.GetKeyDown(KeyCode.L))
         {
             myanimator.SetTrigger("Attack");
         }
+    }
+
+    private void FixedUpdate()
+    {
+        Move();
+     
     }
 
     protected void Move()
