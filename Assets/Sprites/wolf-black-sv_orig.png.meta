@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5ba13f490e52efc4f9d4a2b65692d0ec
-timeCreated: 1520967410
+guid: b40700d62368c134cbdcb8b5327cbd23
+timeCreated: 1521043790
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -100,7 +100,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -137,12 +137,12 @@ TextureImporter:
       name: wolf-black-sv_orig_0
       rect:
         serializedVersion: 2
-        x: 12
+        x: 0
         y: 320
-        width: 45
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,12 +151,12 @@ TextureImporter:
       name: wolf-black-sv_orig_1
       rect:
         serializedVersion: 2
-        x: 76
+        x: 64
         y: 320
-        width: 46
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: wolf-black-sv_orig_2
       rect:
         serializedVersion: 2
-        x: 140
+        x: 128
         y: 320
-        width: 47
-        height: 37
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -179,12 +179,12 @@ TextureImporter:
       name: wolf-black-sv_orig_3
       rect:
         serializedVersion: 2
-        x: 204
+        x: 192
         y: 320
-        width: 46
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,11 +194,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 323
-        width: 53
-        height: 31
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,11 +208,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 323
-        width: 49
-        height: 31
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -221,12 +221,12 @@ TextureImporter:
       name: wolf-black-sv_orig_6
       rect:
         serializedVersion: 2
-        x: 388
-        y: 333
-        width: 54
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: wolf-black-sv_orig_7
       rect:
         serializedVersion: 2
-        x: 452
-        y: 333
-        width: 54
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: wolf-black-sv_orig_8
       rect:
         serializedVersion: 2
-        x: 516
-        y: 333
-        width: 54
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -263,12 +263,12 @@ TextureImporter:
       name: wolf-black-sv_orig_9
       rect:
         serializedVersion: 2
-        x: 12
+        x: 0
         y: 256
-        width: 45
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: wolf-black-sv_orig_10
       rect:
         serializedVersion: 2
-        x: 76
+        x: 64
         y: 256
-        width: 46
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: wolf-black-sv_orig_11
       rect:
         serializedVersion: 2
-        x: 140
+        x: 128
         y: 256
-        width: 47
-        height: 37
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: wolf-black-sv_orig_12
       rect:
         serializedVersion: 2
-        x: 208
-        y: 261
-        width: 43
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: wolf-black-sv_orig_13
       rect:
         serializedVersion: 2
-        x: 265
+        x: 256
         y: 256
-        width: 50
-        height: 44
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: wolf-black-sv_orig_14
       rect:
         serializedVersion: 2
-        x: 330
+        x: 320
         y: 256
-        width: 47
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -347,12 +347,12 @@ TextureImporter:
       name: wolf-black-sv_orig_15
       rect:
         serializedVersion: 2
-        x: 401
-        y: 259
-        width: 38
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: wolf-black-sv_orig_16
       rect:
         serializedVersion: 2
-        x: 467
-        y: 259
-        width: 37
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: wolf-black-sv_orig_17
       rect:
         serializedVersion: 2
-        x: 531
-        y: 259
-        width: 38
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -389,12 +389,12 @@ TextureImporter:
       name: wolf-black-sv_orig_18
       rect:
         serializedVersion: 2
-        x: 15
-        y: 195
-        width: 44
-        height: 41
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: wolf-black-sv_orig_19
       rect:
         serializedVersion: 2
-        x: 80
-        y: 195
-        width: 43
-        height: 42
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: wolf-black-sv_orig_20
       rect:
         serializedVersion: 2
-        x: 145
-        y: 195
-        width: 42
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -431,12 +431,12 @@ TextureImporter:
       name: wolf-black-sv_orig_21
       rect:
         serializedVersion: 2
-        x: 209
-        y: 195
-        width: 42
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,11 +446,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 195
-        width: 53
-        height: 37
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -460,11 +460,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 195
-        width: 49
-        height: 31
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -473,12 +473,12 @@ TextureImporter:
       name: wolf-black-sv_orig_24
       rect:
         serializedVersion: 2
-        x: 397
-        y: 195
-        width: 38
-        height: 29
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: wolf-black-sv_orig_25
       rect:
         serializedVersion: 2
-        x: 461
-        y: 195
-        width: 38
-        height: 30
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -501,12 +501,12 @@ TextureImporter:
       name: wolf-black-sv_orig_26
       rect:
         serializedVersion: 2
-        x: 525
-        y: 195
-        width: 38
-        height: 31
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -515,12 +515,12 @@ TextureImporter:
       name: wolf-black-sv_orig_27
       rect:
         serializedVersion: 2
-        x: 12
+        x: 0
         y: 128
-        width: 45
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -529,12 +529,12 @@ TextureImporter:
       name: wolf-black-sv_orig_28
       rect:
         serializedVersion: 2
-        x: 76
+        x: 64
         y: 128
-        width: 45
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -543,12 +543,12 @@ TextureImporter:
       name: wolf-black-sv_orig_29
       rect:
         serializedVersion: 2
-        x: 140
+        x: 128
         y: 128
-        width: 45
-        height: 33
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -557,12 +557,12 @@ TextureImporter:
       name: wolf-black-sv_orig_30
       rect:
         serializedVersion: 2
-        x: 204
+        x: 192
         y: 128
-        width: 46
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -571,12 +571,12 @@ TextureImporter:
       name: wolf-black-sv_orig_31
       rect:
         serializedVersion: 2
-        x: 275
-        y: 131
-        width: 40
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: wolf-black-sv_orig_32
       rect:
         serializedVersion: 2
-        x: 339
-        y: 131
-        width: 40
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -599,12 +599,12 @@ TextureImporter:
       name: wolf-black-sv_orig_33
       rect:
         serializedVersion: 2
-        x: 397
-        y: 131
-        width: 38
-        height: 29
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -613,12 +613,12 @@ TextureImporter:
       name: wolf-black-sv_orig_34
       rect:
         serializedVersion: 2
-        x: 461
-        y: 131
-        width: 38
-        height: 30
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -627,12 +627,12 @@ TextureImporter:
       name: wolf-black-sv_orig_35
       rect:
         serializedVersion: 2
-        x: 525
-        y: 131
-        width: 38
-        height: 31
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -641,12 +641,12 @@ TextureImporter:
       name: wolf-black-sv_orig_36
       rect:
         serializedVersion: 2
-        x: 13
-        y: 67
-        width: 38
-        height: 29
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -655,12 +655,12 @@ TextureImporter:
       name: wolf-black-sv_orig_37
       rect:
         serializedVersion: 2
-        x: 77
-        y: 67
-        width: 38
-        height: 29
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -669,12 +669,12 @@ TextureImporter:
       name: wolf-black-sv_orig_38
       rect:
         serializedVersion: 2
-        x: 141
-        y: 67
-        width: 38
-        height: 29
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -683,12 +683,12 @@ TextureImporter:
       name: wolf-black-sv_orig_39
       rect:
         serializedVersion: 2
-        x: 209
-        y: 67
-        width: 42
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -697,12 +697,12 @@ TextureImporter:
       name: wolf-black-sv_orig_40
       rect:
         serializedVersion: 2
-        x: 275
-        y: 67
-        width: 40
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -711,12 +711,12 @@ TextureImporter:
       name: wolf-black-sv_orig_41
       rect:
         serializedVersion: 2
-        x: 339
-        y: 67
-        width: 40
-        height: 45
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -725,12 +725,12 @@ TextureImporter:
       name: wolf-black-sv_orig_42
       rect:
         serializedVersion: 2
-        x: 393
+        x: 384
         y: 64
-        width: 48
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -739,12 +739,12 @@ TextureImporter:
       name: wolf-black-sv_orig_43
       rect:
         serializedVersion: 2
-        x: 457
+        x: 448
         y: 64
-        width: 48
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: wolf-black-sv_orig_44
       rect:
         serializedVersion: 2
-        x: 521
+        x: 512
         y: 64
-        width: 48
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -767,12 +767,12 @@ TextureImporter:
       name: wolf-black-sv_orig_45
       rect:
         serializedVersion: 2
-        x: 6
-        y: 13
-        width: 51
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -781,12 +781,12 @@ TextureImporter:
       name: wolf-black-sv_orig_46
       rect:
         serializedVersion: 2
-        x: 70
-        y: 13
-        width: 51
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -795,12 +795,12 @@ TextureImporter:
       name: wolf-black-sv_orig_47
       rect:
         serializedVersion: 2
-        x: 134
-        y: 13
-        width: 51
-        height: 35
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -809,12 +809,12 @@ TextureImporter:
       name: wolf-black-sv_orig_48
       rect:
         serializedVersion: 2
-        x: 209
-        y: 3
-        width: 42
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -823,12 +823,12 @@ TextureImporter:
       name: wolf-black-sv_orig_49
       rect:
         serializedVersion: 2
-        x: 272
-        y: 5
-        width: 43
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -837,12 +837,12 @@ TextureImporter:
       name: wolf-black-sv_orig_50
       rect:
         serializedVersion: 2
-        x: 336
-        y: 5
-        width: 43
-        height: 43
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -851,12 +851,12 @@ TextureImporter:
       name: wolf-black-sv_orig_51
       rect:
         serializedVersion: 2
-        x: 388
+        x: 384
         y: 0
-        width: 56
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -865,12 +865,12 @@ TextureImporter:
       name: wolf-black-sv_orig_52
       rect:
         serializedVersion: 2
-        x: 452
+        x: 448
         y: 0
-        width: 56
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -879,1150 +879,18 @@ TextureImporter:
       name: wolf-black-sv_orig_53
       rect:
         serializedVersion: 2
-        x: 516
+        x: 512
         y: 0
-        width: 56
-        height: 25
-      alignment: 9
-      pivot: {x: 48, y: 48}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-    outline:
-    - - {x: 118, y: -165}
-      - {x: 98, y: -176}
-      - {x: 98, y: -192}
-      - {x: 156, y: -192}
-      - {x: 158, y: -191}
-      - {x: 158, y: -175}
-      - {x: 151, y: -165}
-    - - {x: 182, y: -165}
-      - {x: 162, y: -176}
-      - {x: 162, y: -192}
-      - {x: 220, y: -192}
-      - {x: 222, y: -191}
-      - {x: 222, y: -175}
-      - {x: 215, y: -165}
-    - - {x: 250, y: -165}
-      - {x: 239, y: -166}
-      - {x: 226, y: -182}
-      - {x: 226, y: -192}
-      - {x: 284, y: -192}
-      - {x: 286, y: -188}
-      - {x: 286, y: -177}
-      - {x: 273, y: -165}
-    - - {x: -81, y: -144}
-      - {x: -81, y: -188}
-      - {x: -76, y: -191}
-      - {x: -42, y: -191}
-      - {x: -35, y: -190}
-      - {x: -35, y: -158}
-      - {x: -61, y: -144}
-    - - {x: -12, y: -142}
-      - {x: -13, y: -143}
-      - {x: -18, y: -165}
-      - {x: -18, y: -185}
-      - {x: -3, y: -189}
-      - {x: 29, y: -189}
-      - {x: 29, y: -170}
-      - {x: 6, y: -142}
-    - - {x: 52, y: -142}
-      - {x: 51, y: -143}
-      - {x: 46, y: -165}
-      - {x: 46, y: -185}
-      - {x: 61, y: -189}
-      - {x: 93, y: -189}
-      - {x: 93, y: -170}
-      - {x: 70, y: -142}
-    - - {x: -253, y: -142}
-      - {x: -283, y: -142}
-      - {x: -284, y: -143}
-      - {x: -284, y: -181}
-      - {x: -231, y: -181}
-      - {x: -229, y: -176}
-      - {x: -229, y: -152}
-      - {x: -231, y: -147}
-    - - {x: -195, y: -142}
-      - {x: -214, y: -142}
-      - {x: -217, y: -143}
-      - {x: -220, y: -153}
-      - {x: -220, y: -176}
-      - {x: -207, y: -181}
-      - {x: -165, y: -181}
-      - {x: -165, y: -156}
-      - {x: -168, y: -152}
-    - - {x: -129, y: -142}
-      - {x: -156, y: -142}
-      - {x: -156, y: -181}
-      - {x: -101, y: -181}
-      - {x: -101, y: -156}
-      - {x: -103, y: -151}
-    - - {x: 146, y: -101}
-      - {x: 122, y: -101}
-      - {x: 110, y: -102}
-      - {x: 103, y: -116}
-      - {x: 103, y: -130}
-      - {x: 153, y: -130}
-      - {x: 155, y: -127}
-      - {x: 155, y: -114}
-    - - {x: 210, y: -101}
-      - {x: 186, y: -101}
-      - {x: 174, y: -102}
-      - {x: 167, y: -116}
-      - {x: 167, y: -130}
-      - {x: 217, y: -130}
-      - {x: 219, y: -127}
-      - {x: 219, y: -114}
-    - - {x: 275, y: -101}
-      - {x: 243, y: -101}
-      - {x: 239, y: -102}
-      - {x: 231, y: -115}
-      - {x: 231, y: -128}
-      - {x: 232, y: -130}
-      - {x: 272, y: -130}
-      - {x: 281, y: -129}
-      - {x: 283, y: -127}
-      - {x: 283, y: -111}
-    - - {x: -240, y: -94}
-      - {x: -270, y: -94}
-      - {x: -277, y: -95}
-      - {x: -277, y: -127}
-      - {x: -237, y: -127}
-      - {x: -235, y: -123}
-      - {x: -235, y: -98}
-    - - {x: -178, y: -94}
-      - {x: -210, y: -94}
-      - {x: -213, y: -102}
-      - {x: -213, y: -125}
-      - {x: -212, y: -127}
-      - {x: -178, y: -127}
-      - {x: -171, y: -123}
-      - {x: -171, y: -102}
-      - {x: -172, y: -98}
-    - - {x: -145, y: -94}
-      - {x: -149, y: -96}
-      - {x: -149, y: -127}
-      - {x: -110, y: -127}
-      - {x: -107, y: -123}
-      - {x: -107, y: -94}
-    - - {x: -81, y: -80}
-      - {x: -81, y: -126}
-      - {x: -79, y: -127}
-      - {x: -40, y: -127}
-      - {x: -35, y: -125}
-      - {x: -35, y: -111}
-      - {x: -60, y: -80}
-    - - {x: -15, y: -78}
-      - {x: -15, y: -127}
-      - {x: 29, y: -127}
-      - {x: 29, y: -108}
-      - {x: -2, y: -78}
-    - - {x: 49, y: -78}
-      - {x: 49, y: -127}
-      - {x: 93, y: -127}
-      - {x: 93, y: -108}
-      - {x: 62, y: -78}
-    - - {x: -278, y: -29}
-      - {x: -278, y: -66}
-      - {x: -242, y: -66}
-      - {x: -229, y: -55}
-      - {x: -229, y: -35}
-      - {x: -232, y: -29}
-    - - {x: -214, y: -29}
-      - {x: -214, y: -63}
-      - {x: -209, y: -66}
-      - {x: -179, y: -66}
-      - {x: -165, y: -55}
-      - {x: -165, y: -32}
-      - {x: -166, y: -29}
-    - - {x: -113, y: -30}
-      - {x: -127, y: -29}
-      - {x: -146, y: -29}
-      - {x: -150, y: -32}
-      - {x: -150, y: -62}
-      - {x: -136, y: -66}
-      - {x: -123, y: -66}
-      - {x: -111, y: -63}
-      - {x: -101, y: -50}
-      - {x: -101, y: -45}
-    - - {x: -54, y: -27}
-      - {x: -84, y: -27}
-      - {x: -86, y: -28}
-      - {x: -86, y: -66}
-      - {x: -42, y: -66}
-      - {x: -36, y: -47}
-      - {x: -36, y: -46}
-      - {x: -45, y: -29}
-    - - {x: -15, y: -14}
-      - {x: -15, y: -63}
-      - {x: 29, y: -63}
-      - {x: 29, y: -45}
-      - {x: -6, y: -14}
-    - - {x: 49, y: -14}
-      - {x: 49, y: -63}
-      - {x: 93, y: -63}
-      - {x: 93, y: -45}
-      - {x: 58, y: -14}
-    - - {x: 149, y: -34}
-      - {x: 143, y: -30}
-      - {x: 113, y: -30}
-      - {x: 107, y: -31}
-      - {x: 107, y: -59}
-      - {x: 108, y: -63}
-      - {x: 142, y: -63}
-      - {x: 145, y: -62}
-      - {x: 149, y: -57}
-    - - {x: 174, y: -29}
-      - {x: 171, y: -37}
-      - {x: 171, y: -63}
-      - {x: 211, y: -63}
-      - {x: 213, y: -58}
-      - {x: 213, y: -32}
-      - {x: 204, y: -29}
-    - - {x: 235, y: -28}
-      - {x: 235, y: -63}
-      - {x: 269, y: -63}
-      - {x: 277, y: -61}
-      - {x: 277, y: -34}
-      - {x: 271, y: -28}
-    - - {x: -275, y: 46}
-      - {x: -275, y: 1}
-      - {x: -227, y: 1}
-      - {x: -227, y: 19}
-      - {x: -258, y: 46}
-    - - {x: -210, y: 47}
-      - {x: -210, y: 8}
-      - {x: -202, y: 1}
-      - {x: -165, y: 1}
-      - {x: -163, y: 3}
-      - {x: -163, y: 19}
-      - {x: -192, y: 47}
-    - - {x: -145, y: 48}
-      - {x: -145, y: 14}
-      - {x: -143, y: 7}
-      - {x: -140, y: 4}
-      - {x: -136, y: 1}
-      - {x: -101, y: 1}
-      - {x: -99, y: 6}
-      - {x: -99, y: 15}
-      - {x: -128, y: 48}
-    - - {x: -81, y: 48}
-      - {x: -81, y: 14}
-      - {x: -79, y: 7}
-      - {x: -76, y: 4}
-      - {x: -72, y: 1}
-      - {x: -37, y: 1}
-      - {x: -35, y: 6}
-      - {x: -35, y: 15}
-      - {x: -64, y: 48}
-    - - {x: -4, y: 42}
-      - {x: -30, y: 42}
-      - {x: -34, y: 32}
-      - {x: -34, y: 1}
-      - {x: 3, y: 1}
-      - {x: 15, y: 4}
-      - {x: 23, y: 8}
-      - {x: 23, y: 37}
-    - - {x: 35, y: 36}
-      - {x: 32, y: 34}
-      - {x: 30, y: 27}
-      - {x: 30, y: 6}
-      - {x: 37, y: 1}
-      - {x: 68, y: 1}
-      - {x: 83, y: 6}
-      - {x: 83, y: 35}
-      - {x: 80, y: 36}
-    - - {x: 113, y: 34}
-      - {x: 107, y: 33}
-      - {x: 107, y: 1}
-      - {x: 149, y: 1}
-      - {x: 149, y: 33}
-      - {x: 146, y: 34}
-    - - {x: 174, y: 35}
-      - {x: 171, y: 27}
-      - {x: 171, y: 1}
-      - {x: 211, y: 1}
-      - {x: 213, y: 6}
-      - {x: 213, y: 32}
-      - {x: 204, y: 35}
-    - - {x: 235, y: 36}
-      - {x: 235, y: 1}
-      - {x: 269, y: 1}
-      - {x: 277, y: 3}
-      - {x: 277, y: 30}
-      - {x: 271, y: 36}
-    - - {x: -275, y: 99}
-      - {x: -278, y: 97}
-      - {x: -278, y: 62}
-      - {x: -235, y: 62}
-      - {x: -229, y: 70}
-      - {x: -229, y: 88}
-      - {x: -244, y: 99}
-    - - {x: -165, y: 85}
-      - {x: -174, y: 101}
-      - {x: -214, y: 101}
-      - {x: -214, y: 63}
-      - {x: -208, y: 62}
-      - {x: -183, y: 62}
-      - {x: -174, y: 65}
-      - {x: -164, y: 79}
-      - {x: -164, y: 84}
-    - - {x: -131, y: 103}
-      - {x: -147, y: 103}
-      - {x: -150, y: 97}
-      - {x: -150, y: 62}
-      - {x: -124, y: 62}
-      - {x: -110, y: 64}
-      - {x: -99, y: 79}
-      - {x: -99, y: 86}
-      - {x: -110, y: 99}
-    - - {x: -14, y: 110}
-      - {x: -24, y: 104}
-      - {x: -25, y: 93}
-      - {x: -25, y: 64}
-      - {x: -14, y: 63}
-      - {x: -10, y: 62}
-      - {x: 21, y: 62}
-      - {x: 29, y: 77}
-      - {x: 29, y: 99}
-      - {x: 12, y: 110}
-    - - {x: 40, y: 99}
-      - {x: 40, y: 62}
-      - {x: 84, y: 62}
-      - {x: 91, y: 80}
-      - {x: 91, y: 99}
-    - - {x: 111, y: 112}
-      - {x: 111, y: 68}
-      - {x: 116, y: 65}
-      - {x: 141, y: 65}
-      - {x: 149, y: 67}
-      - {x: 153, y: 83}
-      - {x: 153, y: 98}
-      - {x: 139, y: 112}
-    - - {x: 213, y: 114}
-      - {x: 178, y: 114}
-      - {x: 177, y: 112}
-      - {x: 177, y: 65}
-      - {x: 213, y: 65}
-      - {x: 218, y: 82}
-      - {x: 218, y: 101}
-      - {x: 214, y: 113}
-    - - {x: 261, y: 114}
-      - {x: 241, y: 114}
-      - {x: 241, y: 68}
-      - {x: 243, y: 65}
-      - {x: 278, y: 65}
-      - {x: 279, y: 66}
-      - {x: 283, y: 82}
-      - {x: 283, y: 101}
-      - {x: 277, y: 110}
-    - - {x: -82, y: 78}
-      - {x: -69, y: 67}
-      - {x: -35, y: 67}
-      - {x: -35, y: 79}
-      - {x: -53, y: 114}
-      - {x: -74, y: 114}
-      - {x: -77, y: 113}
-      - {x: -82, y: 103}
-    - - {x: -278, y: 163}
-      - {x: -278, y: 129}
-      - {x: -273, y: 126}
-      - {x: -243, y: 126}
-      - {x: -229, y: 137}
-      - {x: -229, y: 153}
-      - {x: -239, y: 163}
-    - - {x: -214, y: 165}
-      - {x: -214, y: 128}
-      - {x: -212, y: 126}
-      - {x: -179, y: 126}
-      - {x: -174, y: 129}
-      - {x: -164, y: 143}
-      - {x: -164, y: 148}
-      - {x: -177, y: 165}
-    - - {x: -113, y: 167}
-      - {x: -150, y: 167}
-      - {x: -150, y: 126}
-      - {x: -120, y: 126}
-      - {x: -110, y: 129}
-      - {x: -99, y: 142}
-      - {x: -99, y: 152}
-    - - {x: -84, y: 127}
-      - {x: -83, y: 126}
-      - {x: -53, y: 126}
-      - {x: -36, y: 137}
-      - {x: -36, y: 158}
-      - {x: -44, y: 165}
-      - {x: -86, y: 165}
-      - {x: -86, y: 133}
-    - - {x: -33, y: 164}
-      - {x: -34, y: 160}
-      - {x: -34, y: 131}
-      - {x: -30, y: 129}
-      - {x: 18, y: 129}
-      - {x: 23, y: 141}
-      - {x: 23, y: 163}
-      - {x: 14, y: 164}
-    - - {x: 65, y: 164}
-      - {x: 34, y: 164}
-      - {x: 30, y: 157}
-      - {x: 30, y: 129}
-      - {x: 80, y: 129}
-      - {x: 83, y: 140}
-      - {x: 83, y: 162}
-      - {x: 80, y: 163}
-    - - {x: 126, y: 178}
-      - {x: 98, y: 155}
-      - {x: 98, y: 152}
-      - {x: 104, y: 139}
-      - {x: 156, y: 139}
-      - {x: 156, y: 178}
-    - - {x: 190, y: 178}
-      - {x: 162, y: 155}
-      - {x: 162, y: 152}
-      - {x: 168, y: 139}
-      - {x: 220, y: 139}
-      - {x: 220, y: 178}
-    - - {x: 277, y: 178}
-      - {x: 253, y: 178}
-      - {x: 226, y: 159}
-      - {x: 226, y: 146}
-      - {x: 230, y: 139}
-      - {x: 281, y: 139}
-      - {x: 284, y: 141}
-      - {x: 284, y: 175}
-      - {x: 283, y: 176}
-    physicsShape:
-    - - {x: 147, y: -167}
-      - {x: 142, y: -165}
-      - {x: 131, y: -165}
-      - {x: 112, y: -168}
-      - {x: 98, y: -182}
-      - {x: 98, y: -188}
-      - {x: 99, y: -192}
-      - {x: 155, y: -192}
-      - {x: 158, y: -191}
-      - {x: 158, y: -180}
-    - - {x: 211, y: -167}
-      - {x: 206, y: -165}
-      - {x: 195, y: -165}
-      - {x: 176, y: -168}
-      - {x: 162, y: -182}
-      - {x: 162, y: -188}
-      - {x: 163, y: -192}
-      - {x: 219, y: -192}
-      - {x: 222, y: -191}
-      - {x: 222, y: -180}
-    - - {x: 275, y: -167}
-      - {x: 270, y: -165}
-      - {x: 256, y: -165}
-      - {x: 240, y: -168}
-      - {x: 226, y: -182}
-      - {x: 226, y: -192}
-      - {x: 282, y: -192}
-      - {x: 286, y: -187}
-      - {x: 286, y: -180}
-    - - {x: -44, y: -168}
-      - {x: -59, y: -152}
-      - {x: -64, y: -144}
-      - {x: -80, y: -144}
-      - {x: -81, y: -146}
-      - {x: -81, y: -172}
-      - {x: -79, y: -185}
-      - {x: -76, y: -188}
-      - {x: -72, y: -191}
-      - {x: -43, y: -191}
-      - {x: -39, y: -190}
-      - {x: -35, y: -185}
-      - {x: -35, y: -179}
-    - - {x: 7, y: -143}
-      - {x: 5, y: -142}
-      - {x: -5, y: -142}
-      - {x: -12, y: -144}
-      - {x: -13, y: -163}
-      - {x: -18, y: -169}
-      - {x: -18, y: -173}
-      - {x: -16, y: -178}
-      - {x: -7, y: -179}
-      - {x: 7, y: -189}
-      - {x: 27, y: -189}
-      - {x: 29, y: -185}
-      - {x: 29, y: -177}
-      - {x: 15, y: -165}
-    - - {x: 71, y: -143}
-      - {x: 69, y: -142}
-      - {x: 59, y: -142}
-      - {x: 52, y: -144}
-      - {x: 51, y: -163}
-      - {x: 46, y: -169}
-      - {x: 46, y: -173}
-      - {x: 48, y: -178}
-      - {x: 57, y: -179}
-      - {x: 71, y: -189}
-      - {x: 91, y: -189}
-      - {x: 93, y: -185}
-      - {x: 93, y: -177}
-      - {x: 79, y: -165}
-    - - {x: -229, y: -156}
-      - {x: -232, y: -152}
-      - {x: -258, y: -150}
-      - {x: -263, y: -142}
-      - {x: -279, y: -142}
-      - {x: -280, y: -144}
-      - {x: -284, y: -161}
-      - {x: -284, y: -171}
-      - {x: -282, y: -175}
-      - {x: -265, y: -180}
-      - {x: -253, y: -175}
-      - {x: -248, y: -180}
-      - {x: -246, y: -180}
-      - {x: -238, y: -181}
-      - {x: -236, y: -181}
-      - {x: -231, y: -179}
-      - {x: -229, y: -165}
-    - - {x: -165, y: -156}
-      - {x: -168, y: -152}
-      - {x: -180, y: -155}
-      - {x: -197, y: -145}
-      - {x: -202, y: -142}
-      - {x: -214, y: -142}
-      - {x: -216, y: -144}
-      - {x: -220, y: -164}
-      - {x: -220, y: -174}
-      - {x: -218, y: -175}
-      - {x: -201, y: -180}
-      - {x: -192, y: -172}
-      - {x: -184, y: -180}
-      - {x: -181, y: -181}
-      - {x: -171, y: -181}
-      - {x: -167, y: -179}
-      - {x: -171, y: -169}
-      - {x: -165, y: -165}
-    - - {x: -103, y: -151}
-      - {x: -116, y: -154}
-      - {x: -130, y: -151}
-      - {x: -135, y: -142}
-      - {x: -151, y: -142}
-      - {x: -152, y: -144}
-      - {x: -153, y: -160}
-      - {x: -156, y: -165}
-      - {x: -156, y: -171}
-      - {x: -154, y: -175}
-      - {x: -145, y: -177}
-      - {x: -137, y: -180}
-      - {x: -128, y: -172}
-      - {x: -121, y: -181}
-      - {x: -105, y: -181}
-      - {x: -103, y: -173}
-      - {x: -101, y: -168}
-      - {x: -101, y: -156}
-    - - {x: 146, y: -101}
-      - {x: 123, y: -101}
-      - {x: 110, y: -102}
-      - {x: 103, y: -116}
-      - {x: 103, y: -126}
-      - {x: 105, y: -128}
-      - {x: 113, y: -130}
-      - {x: 122, y: -130}
-      - {x: 128, y: -128}
-      - {x: 153, y: -130}
-      - {x: 155, y: -127}
-      - {x: 155, y: -114}
-    - - {x: 210, y: -101}
-      - {x: 187, y: -101}
-      - {x: 174, y: -102}
-      - {x: 167, y: -116}
-      - {x: 167, y: -126}
-      - {x: 169, y: -128}
-      - {x: 177, y: -130}
-      - {x: 186, y: -130}
-      - {x: 192, y: -128}
-      - {x: 217, y: -130}
-      - {x: 219, y: -127}
-      - {x: 219, y: -114}
-    - - {x: 279, y: -106}
-      - {x: 270, y: -101}
-      - {x: 252, y: -101}
-      - {x: 239, y: -102}
-      - {x: 231, y: -115}
-      - {x: 231, y: -125}
-      - {x: 233, y: -128}
-      - {x: 243, y: -130}
-      - {x: 249, y: -130}
-      - {x: 256, y: -129}
-      - {x: 281, y: -129}
-      - {x: 283, y: -124}
-      - {x: 283, y: -115}
-    - - {x: -243, y: -94}
-      - {x: -269, y: -94}
-      - {x: -275, y: -96}
-      - {x: -277, y: -108}
-      - {x: -277, y: -124}
-      - {x: -276, y: -127}
-      - {x: -242, y: -127}
-      - {x: -239, y: -126}
-      - {x: -235, y: -121}
-      - {x: -235, y: -98}
-    - - {x: -178, y: -94}
-      - {x: -208, y: -94}
-      - {x: -212, y: -99}
-      - {x: -213, y: -106}
-      - {x: -213, y: -123}
-      - {x: -212, y: -127}
-      - {x: -178, y: -127}
-      - {x: -171, y: -123}
-      - {x: -171, y: -103}
-      - {x: -172, y: -99}
-    - - {x: -108, y: -98}
-      - {x: -114, y: -94}
-      - {x: -144, y: -94}
-      - {x: -147, y: -100}
-      - {x: -149, y: -106}
-      - {x: -149, y: -125}
-      - {x: -147, y: -127}
-      - {x: -115, y: -127}
-      - {x: -108, y: -124}
-      - {x: -107, y: -116}
-      - {x: -107, y: -105}
-    - - {x: -44, y: -104}
-      - {x: -59, y: -88}
-      - {x: -64, y: -80}
-      - {x: -80, y: -80}
-      - {x: -81, y: -82}
-      - {x: -81, y: -104}
-      - {x: -76, y: -114}
-      - {x: -81, y: -121}
-      - {x: -73, y: -127}
-      - {x: -42, y: -127}
-      - {x: -39, y: -126}
-      - {x: -35, y: -121}
-      - {x: -35, y: -114}
-    - - {x: 20, y: -104}
-      - {x: 10, y: -92}
-      - {x: -6, y: -78}
-      - {x: -13, y: -78}
-      - {x: -15, y: -79}
-      - {x: -15, y: -113}
-      - {x: -14, y: -126}
-      - {x: -11, y: -127}
-      - {x: 9, y: -127}
-      - {x: 11, y: -126}
-      - {x: 17, y: -127}
-      - {x: 26, y: -127}
-      - {x: 29, y: -121}
-      - {x: 29, y: -113}
-    - - {x: 84, y: -104}
-      - {x: 74, y: -92}
-      - {x: 58, y: -78}
-      - {x: 51, y: -78}
-      - {x: 49, y: -79}
-      - {x: 49, y: -113}
-      - {x: 50, y: -126}
-      - {x: 53, y: -127}
-      - {x: 73, y: -127}
-      - {x: 75, y: -126}
-      - {x: 81, y: -127}
-      - {x: 90, y: -127}
-      - {x: 93, y: -121}
-      - {x: 93, y: -113}
-    - - {x: -229, y: -45}
-      - {x: -237, y: -35}
-      - {x: -245, y: -30}
-      - {x: -249, y: -29}
-      - {x: -273, y: -29}
-      - {x: -276, y: -35}
-      - {x: -278, y: -47}
-      - {x: -278, y: -60}
-      - {x: -267, y: -66}
-      - {x: -256, y: -66}
-      - {x: -254, y: -62}
-      - {x: -239, y: -63}
-      - {x: -229, y: -50}
-    - - {x: -165, y: -45}
-      - {x: -173, y: -35}
-      - {x: -181, y: -30}
-      - {x: -185, y: -29}
-      - {x: -209, y: -29}
-      - {x: -212, y: -35}
-      - {x: -214, y: -47}
-      - {x: -214, y: -60}
-      - {x: -203, y: -66}
-      - {x: -192, y: -66}
-      - {x: -190, y: -62}
-      - {x: -175, y: -63}
-      - {x: -165, y: -50}
-    - - {x: -101, y: -45}
-      - {x: -108, y: -37}
-      - {x: -113, y: -31}
-      - {x: -132, y: -29}
-      - {x: -140, y: -29}
-      - {x: -145, y: -30}
-      - {x: -149, y: -34}
-      - {x: -150, y: -47}
-      - {x: -150, y: -60}
-      - {x: -138, y: -65}
-      - {x: -135, y: -66}
-      - {x: -128, y: -66}
-      - {x: -126, y: -62}
-      - {x: -111, y: -63}
-      - {x: -101, y: -50}
-    - - {x: -37, y: -43}
-      - {x: -46, y: -30}
-      - {x: -60, y: -29}
-      - {x: -66, y: -27}
-      - {x: -84, y: -27}
-      - {x: -86, y: -29}
-      - {x: -86, y: -58}
-      - {x: -83, y: -63}
-      - {x: -75, y: -66}
-      - {x: -66, y: -66}
-      - {x: -62, y: -62}
-      - {x: -47, y: -62}
-      - {x: -36, y: -46}
-    - - {x: -6, y: -14}
-      - {x: -11, y: -14}
-      - {x: -15, y: -15}
-      - {x: -15, y: -53}
-      - {x: -13, y: -61}
-      - {x: -9, y: -63}
-      - {x: 25, y: -63}
-      - {x: 29, y: -58}
-      - {x: 29, y: -48}
-      - {x: 10, y: -28}
-    - - {x: 58, y: -14}
-      - {x: 53, y: -14}
-      - {x: 49, y: -15}
-      - {x: 49, y: -53}
-      - {x: 51, y: -61}
-      - {x: 55, y: -63}
-      - {x: 89, y: -63}
-      - {x: 93, y: -58}
-      - {x: 93, y: -48}
-      - {x: 74, y: -28}
-    - - {x: 149, y: -34}
-      - {x: 141, y: -30}
-      - {x: 115, y: -30}
-      - {x: 108, y: -32}
-      - {x: 107, y: -38}
-      - {x: 107, y: -59}
-      - {x: 108, y: -63}
-      - {x: 115, y: -63}
-      - {x: 121, y: -62}
-      - {x: 124, y: -63}
-      - {x: 142, y: -63}
-      - {x: 145, y: -62}
-      - {x: 149, y: -57}
-    - - {x: 213, y: -34}
-      - {x: 204, y: -30}
-      - {x: 200, y: -29}
-      - {x: 174, y: -29}
-      - {x: 171, y: -37}
-      - {x: 171, y: -60}
-      - {x: 172, y: -63}
-      - {x: 206, y: -63}
-      - {x: 209, y: -62}
-      - {x: 213, y: -57}
-    - - {x: 263, y: -28}
-      - {x: 243, y: -28}
-      - {x: 237, y: -30}
-      - {x: 235, y: -35}
-      - {x: 235, y: -61}
-      - {x: 236, y: -63}
-      - {x: 268, y: -63}
-      - {x: 277, y: -61}
-      - {x: 277, y: -34}
-      - {x: 268, y: -29}
-    - - {x: -255, y: 40}
-      - {x: -256, y: 43}
-      - {x: -259, y: 46}
-      - {x: -273, y: 46}
-      - {x: -275, y: 45}
-      - {x: -275, y: 18}
-      - {x: -272, y: 10}
-      - {x: -269, y: 3}
-      - {x: -265, y: 1}
-      - {x: -252, y: 1}
-      - {x: -250, y: 2}
-      - {x: -237, y: 1}
-      - {x: -231, y: 1}
-      - {x: -227, y: 6}
-      - {x: -227, y: 15}
-    - - {x: -166, y: 18}
-      - {x: -191, y: 44}
-      - {x: -196, y: 47}
-      - {x: -208, y: 47}
-      - {x: -210, y: 45}
-      - {x: -210, y: 25}
-      - {x: -203, y: 17}
-      - {x: -207, y: 11}
-      - {x: -205, y: 3}
-      - {x: -201, y: 1}
-      - {x: -188, y: 1}
-      - {x: -186, y: 2}
-      - {x: -179, y: 1}
-      - {x: -165, y: 1}
-      - {x: -163, y: 7}
-      - {x: -163, y: 14}
-    - - {x: -114, y: 28}
-      - {x: -128, y: 48}
-      - {x: -144, y: 48}
-      - {x: -145, y: 46}
-      - {x: -145, y: 26}
-      - {x: -140, y: 22}
-      - {x: -143, y: 7}
-      - {x: -140, y: 4}
-      - {x: -136, y: 1}
-      - {x: -125, y: 1}
-      - {x: -122, y: 2}
-      - {x: -113, y: 1}
-      - {x: -101, y: 1}
-      - {x: -99, y: 6}
-      - {x: -99, y: 15}
-    - - {x: -50, y: 28}
-      - {x: -64, y: 48}
-      - {x: -80, y: 48}
-      - {x: -81, y: 46}
-      - {x: -81, y: 26}
-      - {x: -76, y: 22}
-      - {x: -79, y: 7}
-      - {x: -76, y: 4}
-      - {x: -72, y: 1}
-      - {x: -61, y: 1}
-      - {x: -58, y: 2}
-      - {x: -49, y: 1}
-      - {x: -37, y: 1}
-      - {x: -35, y: 6}
-      - {x: -35, y: 15}
-    - - {x: 23, y: 26}
-      - {x: 21, y: 32}
-      - {x: 13, y: 35}
-      - {x: -4, y: 42}
-      - {x: -15, y: 42}
-      - {x: -25, y: 41}
-      - {x: -32, y: 31}
-      - {x: -34, y: 23}
-      - {x: -34, y: 6}
-      - {x: -32, y: 4}
-      - {x: -25, y: 1}
-      - {x: -9, y: 1}
-      - {x: -4, y: 2}
-      - {x: 15, y: 4}
-      - {x: 22, y: 10}
-      - {x: 23, y: 22}
-    - - {x: 81, y: 8}
-      - {x: 80, y: 17}
-      - {x: 83, y: 23}
-      - {x: 83, y: 33}
-      - {x: 77, y: 35}
-      - {x: 59, y: 34}
-      - {x: 51, y: 36}
-      - {x: 39, y: 36}
-      - {x: 32, y: 34}
-      - {x: 30, y: 21}
-      - {x: 30, y: 8}
-      - {x: 32, y: 4}
-      - {x: 43, y: 1}
-      - {x: 46, y: 1}
-      - {x: 56, y: 7}
-      - {x: 63, y: 6}
-      - {x: 73, y: 4}
-    - - {x: 149, y: 30}
-      - {x: 141, y: 34}
-      - {x: 115, y: 34}
-      - {x: 108, y: 32}
-      - {x: 107, y: 26}
-      - {x: 107, y: 5}
-      - {x: 108, y: 1}
-      - {x: 115, y: 1}
-      - {x: 121, y: 2}
-      - {x: 124, y: 1}
-      - {x: 142, y: 1}
-      - {x: 145, y: 2}
-      - {x: 149, y: 7}
-    - - {x: 213, y: 30}
-      - {x: 204, y: 34}
-      - {x: 200, y: 35}
-      - {x: 174, y: 35}
-      - {x: 171, y: 27}
-      - {x: 171, y: 4}
-      - {x: 172, y: 1}
-      - {x: 206, y: 1}
-      - {x: 209, y: 2}
-      - {x: 213, y: 7}
-    - - {x: 263, y: 36}
-      - {x: 243, y: 36}
-      - {x: 237, y: 34}
-      - {x: 235, y: 29}
-      - {x: 235, y: 3}
-      - {x: 236, y: 1}
-      - {x: 268, y: 1}
-      - {x: 277, y: 3}
-      - {x: 277, y: 30}
-      - {x: 268, y: 35}
-    - - {x: -229, y: 83}
-      - {x: -241, y: 96}
-      - {x: -252, y: 99}
-      - {x: -270, y: 99}
-      - {x: -273, y: 98}
-      - {x: -277, y: 94}
-      - {x: -278, y: 82}
-      - {x: -278, y: 75}
-      - {x: -277, y: 69}
-      - {x: -274, y: 66}
-      - {x: -266, y: 63}
-      - {x: -262, y: 62}
-      - {x: -256, y: 62}
-      - {x: -254, y: 66}
-      - {x: -239, y: 65}
-      - {x: -229, y: 78}
-    - - {x: -165, y: 85}
-      - {x: -174, y: 97}
-      - {x: -181, y: 100}
-      - {x: -194, y: 96}
-      - {x: -196, y: 101}
-      - {x: -205, y: 101}
-      - {x: -209, y: 100}
-      - {x: -214, y: 96}
-      - {x: -214, y: 66}
-      - {x: -204, y: 62}
-      - {x: -194, y: 62}
-      - {x: -174, y: 65}
-      - {x: -164, y: 79}
-      - {x: -164, y: 84}
-    - - {x: -99, y: 85}
-      - {x: -110, y: 99}
-      - {x: -124, y: 101}
-      - {x: -133, y: 103}
-      - {x: -146, y: 103}
-      - {x: -150, y: 96}
-      - {x: -150, y: 80}
-      - {x: -148, y: 76}
-      - {x: -150, y: 69}
-      - {x: -150, y: 67}
-      - {x: -148, y: 62}
-      - {x: -138, y: 68}
-      - {x: -140, y: 63}
-      - {x: -134, y: 62}
-      - {x: -129, y: 62}
-      - {x: -127, y: 65}
-      - {x: -110, y: 65}
-      - {x: -99, y: 80}
-    - - {x: 29, y: 81}
-      - {x: 29, y: 92}
-      - {x: 23, y: 99}
-      - {x: 6, y: 108}
-      - {x: 4, y: 110}
-      - {x: -6, y: 110}
-      - {x: -21, y: 101}
-      - {x: -25, y: 94}
-      - {x: -25, y: 66}
-      - {x: -14, y: 63}
-      - {x: -8, y: 62}
-      - {x: -3, y: 62}
-      - {x: 5, y: 69}
-      - {x: 16, y: 62}
-      - {x: 26, y: 74}
-    - - {x: 91, y: 95}
-      - {x: 88, y: 99}
-      - {x: 76, y: 97}
-      - {x: 58, y: 99}
-      - {x: 48, y: 99}
-      - {x: 42, y: 97}
-      - {x: 40, y: 88}
-      - {x: 40, y: 68}
-      - {x: 44, y: 66}
-      - {x: 52, y: 63}
-      - {x: 55, y: 62}
-      - {x: 69, y: 62}
-      - {x: 80, y: 65}
-      - {x: 85, y: 81}
-      - {x: 91, y: 86}
-    - - {x: 138, y: 100}
-      - {x: 142, y: 92}
-      - {x: 128, y: 112}
-      - {x: 112, y: 112}
-      - {x: 111, y: 110}
-      - {x: 111, y: 89}
-      - {x: 116, y: 78}
-      - {x: 111, y: 71}
-      - {x: 119, y: 65}
-      - {x: 141, y: 65}
-      - {x: 149, y: 67}
-      - {x: 153, y: 83}
-      - {x: 153, y: 97}
-      - {x: 141, y: 104}
-    - - {x: 218, y: 94}
-      - {x: 211, y: 104}
-      - {x: 203, y: 101}
-      - {x: 201, y: 100}
-      - {x: 185, y: 114}
-      - {x: 181, y: 114}
-      - {x: 177, y: 112}
-      - {x: 177, y: 65}
-      - {x: 206, y: 65}
-      - {x: 209, y: 66}
-      - {x: 215, y: 73}
-      - {x: 218, y: 84}
-    - - {x: 271, y: 102}
-      - {x: 265, y: 100}
-      - {x: 249, y: 114}
-      - {x: 245, y: 114}
-      - {x: 241, y: 112}
-      - {x: 241, y: 75}
-      - {x: 243, y: 67}
-      - {x: 246, y: 65}
-      - {x: 267, y: 65}
-      - {x: 277, y: 68}
-      - {x: 283, y: 84}
-      - {x: 283, y: 95}
-      - {x: 275, y: 103}
-    - - {x: -57, y: 113}
-      - {x: -60, y: 114}
-      - {x: -71, y: 114}
-      - {x: -76, y: 113}
-      - {x: -78, y: 96}
-      - {x: -82, y: 88}
-      - {x: -82, y: 83}
-      - {x: -80, y: 78}
-      - {x: -72, y: 80}
-      - {x: -62, y: 70}
-      - {x: -58, y: 67}
-      - {x: -39, y: 67}
-      - {x: -35, y: 68}
-      - {x: -35, y: 77}
-      - {x: -52, y: 99}
-    - - {x: -229, y: 147}
-      - {x: -241, y: 160}
-      - {x: -252, y: 162}
-      - {x: -258, y: 159}
-      - {x: -263, y: 163}
-      - {x: -278, y: 163}
-      - {x: -278, y: 132}
-      - {x: -267, y: 126}
-      - {x: -256, y: 126}
-      - {x: -254, y: 130}
-      - {x: -239, y: 129}
-      - {x: -229, y: 142}
-    - - {x: -165, y: 149}
-      - {x: -174, y: 161}
-      - {x: -182, y: 163}
-      - {x: -187, y: 162}
-      - {x: -194, y: 165}
-      - {x: -212, y: 165}
-      - {x: -214, y: 164}
-      - {x: -214, y: 133}
-      - {x: -212, y: 127}
-      - {x: -202, y: 131}
-      - {x: -200, y: 126}
-      - {x: -194, y: 126}
-      - {x: -174, y: 129}
-      - {x: -164, y: 143}
-      - {x: -164, y: 148}
-    - - {x: -99, y: 149}
-      - {x: -111, y: 161}
-      - {x: -117, y: 165}
-      - {x: -129, y: 161}
-      - {x: -133, y: 167}
-      - {x: -148, y: 167}
-      - {x: -150, y: 165}
-      - {x: -150, y: 134}
-      - {x: -147, y: 129}
-      - {x: -142, y: 129}
-      - {x: -140, y: 127}
-      - {x: -135, y: 126}
-      - {x: -129, y: 126}
-      - {x: -127, y: 129}
-      - {x: -110, y: 129}
-      - {x: -99, y: 144}
-    - - {x: -36, y: 148}
-      - {x: -46, y: 161}
-      - {x: -54, y: 163}
-      - {x: -59, y: 162}
-      - {x: -66, y: 165}
-      - {x: -84, y: 165}
-      - {x: -86, y: 164}
-      - {x: -86, y: 133}
-      - {x: -84, y: 127}
-      - {x: -74, y: 131}
-      - {x: -72, y: 126}
-      - {x: -64, y: 126}
-      - {x: -61, y: 132}
-      - {x: -47, y: 130}
-      - {x: -36, y: 143}
-    - - {x: 23, y: 150}
-      - {x: 23, y: 154}
-      - {x: 21, y: 160}
-      - {x: 13, y: 163}
-      - {x: -1, y: 163}
-      - {x: -12, y: 164}
-      - {x: -29, y: 164}
-      - {x: -34, y: 153}
-      - {x: -34, y: 134}
-      - {x: -27, y: 129}
-      - {x: -7, y: 129}
-      - {x: -4, y: 130}
-      - {x: 6, y: 134}
-      - {x: 15, y: 132}
-      - {x: 22, y: 138}
-    - - {x: 82, y: 135}
-      - {x: 79, y: 145}
-      - {x: 83, y: 150}
-      - {x: 83, y: 159}
-      - {x: 80, y: 163}
-      - {x: 58, y: 162}
-      - {x: 49, y: 164}
-      - {x: 34, y: 164}
-      - {x: 30, y: 154}
-      - {x: 30, y: 135}
-      - {x: 32, y: 131}
-      - {x: 43, y: 129}
-      - {x: 48, y: 129}
-      - {x: 56, y: 135}
-      - {x: 63, y: 134}
-      - {x: 73, y: 133}
-    - - {x: 156, y: 149}
-      - {x: 156, y: 159}
-      - {x: 152, y: 173}
-      - {x: 145, y: 178}
-      - {x: 133, y: 178}
-      - {x: 125, y: 167}
-      - {x: 116, y: 165}
-      - {x: 98, y: 155}
-      - {x: 98, y: 152}
-      - {x: 107, y: 139}
-      - {x: 121, y: 139}
-      - {x: 137, y: 141}
-      - {x: 146, y: 144}
-      - {x: 154, y: 145}
-    - - {x: 220, y: 149}
-      - {x: 220, y: 159}
-      - {x: 216, y: 173}
-      - {x: 209, y: 178}
-      - {x: 197, y: 178}
-      - {x: 189, y: 167}
-      - {x: 180, y: 165}
-      - {x: 162, y: 155}
-      - {x: 162, y: 152}
-      - {x: 171, y: 139}
-      - {x: 185, y: 139}
-      - {x: 201, y: 141}
-      - {x: 210, y: 144}
-      - {x: 218, y: 145}
-    - - {x: 282, y: 145}
-      - {x: 284, y: 149}
-      - {x: 284, y: 158}
-      - {x: 280, y: 173}
-      - {x: 273, y: 178}
-      - {x: 261, y: 178}
-      - {x: 252, y: 167}
-      - {x: 241, y: 164}
-      - {x: 226, y: 157}
-      - {x: 226, y: 147}
-      - {x: 230, y: 139}
-      - {x: 250, y: 139}
-      - {x: 259, y: 146}
-      - {x: 265, y: 141}
-      - {x: 274, y: 144}
+    outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

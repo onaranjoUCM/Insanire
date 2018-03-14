@@ -8,6 +8,7 @@ public class Enemy : MonoBehaviour {
 
     Transform playerTransform;
     Rigidbody2D rb2d;
+    Animator animator;
     float distanceToPlayer = 1f;
     float signoVector;
 
@@ -19,6 +20,7 @@ public class Enemy : MonoBehaviour {
         // Inicializa variables
         playerTransform = GameObject.FindWithTag("Player").GetComponent<Transform>();
         rb2d = GetComponent<Rigidbody2D>();
+        animator = GetComponentInChildren<Animator>();
 
         // Parámetros para que solo se choque con objetos de la misma capa
         contactFilter.useTriggers = false;
@@ -28,7 +30,7 @@ public class Enemy : MonoBehaviour {
 
     void Update()
     {
-        if (transform.GetChild(0).GetComponent<SpriteRenderer>().isVisible) { Move(); }
+        if (GetComponent<SpriteRenderer>().isVisible) { Move(); }
     }
 
     void Move()
@@ -71,6 +73,15 @@ public class Enemy : MonoBehaviour {
                 }
             }
             
+            // Elige la animacion de movimiento o quieto
+            if (Mathf.Approximately(move.magnitude, transform.position.magnitude))
+            {
+                animator.SetTrigger("wolfIdle");
+            } else
+            {
+                animator.SetTrigger("wolfRun");
+            }
+
             // Realiza el movimiento
             transform.position = move;
         }
@@ -83,6 +94,6 @@ public class Enemy : MonoBehaviour {
 
     void Attack()
     {
-
+        animator.SetTrigger("wolfAttack");
     }
 }
