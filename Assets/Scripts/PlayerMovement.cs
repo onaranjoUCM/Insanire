@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour {
     void Awake()
     {
         swordcol = GameObject.FindWithTag("sword1").GetComponent<Collider2D>();
-        myanimator = this.GetComponentInChildren<Animator>();
+        myanimator = GetComponentInChildren<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
     }
 
