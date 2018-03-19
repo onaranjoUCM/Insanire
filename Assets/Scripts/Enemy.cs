@@ -5,12 +5,17 @@ using UnityEngine;
 public class Enemy : MonoBehaviour {
 
     public float speed = 3f;
+    public float attackSpeed = 1;
+    public int damage = 10;
+
+    float distanceToPlayer = 1f;
+    float signoVector;
+    bool waiting = false;
 
     Transform playerTransform;
     Rigidbody2D rb2d;
     Animator animator;
-    float distanceToPlayer = 1f;
-    float signoVector;
+    GameObject player;
 
     protected ContactFilter2D contactFilter;
     protected RaycastHit2D[] hitBuffer = new RaycastHit2D[16];
@@ -18,7 +23,8 @@ public class Enemy : MonoBehaviour {
     void Start()
     {
         // Inicializa variables
-        playerTransform = GameObject.FindWithTag("Player").GetComponent<Transform>();
+        player = GameObject.FindWithTag("Player");
+        playerTransform = player.GetComponent<Transform>();
         rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponentInChildren<Animator>();
 
@@ -36,6 +42,7 @@ public class Enemy : MonoBehaviour {
     void Move()
     {
         // Si está alejado del jugador se acerca a él
+        Debug.Log(Vector3.Distance(transform.position, playerTransform.position));
         if (Vector3.Distance(transform.position, playerTransform.position) > distanceToPlayer)
         {
             // Calcula la nueva posición
@@ -88,12 +95,19 @@ public class Enemy : MonoBehaviour {
         // Si está pegado al jugador le ataca
         else
         {
-            Attack();
+            StartCoroutine(Attack());
         }
     }
 
-    void Attack()
+    IEnumerator Attack()
     {
         animator.SetTrigger("wolfAttack");
+        if(!waiting)
+        {
+            player.GetComponent<PlayerMovement>().ReducirSalud(damage);
+            waiting = true;
+            yield return new WaitForSeconds(attackSpeed);
+            waiting = false;
+        }
     }
 }
