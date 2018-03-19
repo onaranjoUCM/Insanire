@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
 
+    public float speed = 5;
+    public int health = 100;
+
     protected Rigidbody2D rb2d;
     protected Vector2 velocity;
-    public float speed = 5;
-    
+    protected Collider2D swordcol;
+    protected Animator myanimator;
     protected ContactFilter2D contactFilter;
     protected RaycastHit2D[] hitBuffer = new RaycastHit2D[16];
-
-    Collider2D swordcol;
-    Animator myanimator;
 
     void Awake()
     {
@@ -84,5 +84,21 @@ public class PlayerMovement : MonoBehaviour {
     {
         swordcol.enabled = false;
         myanimator.ResetTrigger("Attack");
+    }
+
+    // Reduce la salud en la cantidad pasada por parámetro (Hasta un mínimo de 0)
+    public void ReducirSalud(int reduccion)
+    {
+        health -= reduccion;
+        if (health < 0) { health = 0; }
+        GameManager.instance.ActualizarTxtSalud(health);
+    }
+
+    // Aumenta la salud en la cantidad pasada por parámetro (Hasta un máximo de 100)
+    public void AumentarSalud(int aumento)
+    {
+        health += aumento;
+        if (health > 100) { health = 100; }
+        GameManager.instance.ActualizarTxtSalud(health);
     }
 }
